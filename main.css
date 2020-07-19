@@ -8,16 +8,8 @@ div {
 	margin-top: 20px;
 	margin-left: 200px;
 	margin-right: 200px;
-  	padding: 10px 150px 10px 150px;
-    	padding-top: 10px;
-   	 padding-right: 150px;
-   	 padding-bottom: 10px;
-   	 padding-left: 150px;
-   	 border-radius: 15px;
-   	 border-top-left-radius: 15px;
-    	border-top-right-radius: 15px;
-   	 border-bottom-right-radius: 15px;
-   	 border-bottom-left-radius: 15px;
+	padding: 10px 150px 10px 150px;
+	border-radius: 15px;
 	background-color: #C4CECD;
 	text-align: left;
 }
