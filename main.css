@@ -19,11 +19,13 @@ div {
 }
 body{
 display: block;
-    margin: 8px;
-    margin-top: 8px;
-    margin-right: 8px;
-    margin-bottom: 8px;
-    margin-left: 8px;
+margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 10px 150px 10px 150px;
+	border-radius: 15px;
+	background-color: #C4CECD;
+	text-align: left;
 }
 
 header{
